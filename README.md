@@ -1,2 +1,2 @@
-# questoesestruturadedados
+# questoes estrutura de dados
 8 ATIVIDADES INTRODUTÓRIAS DA DISCIPLINA DE ESTRUTURA DE DADOS
